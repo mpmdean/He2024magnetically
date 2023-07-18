@@ -4,5 +4,6 @@ channels:
 dependencies:
   - python=3.10
   - edrixs==0.0.8
+  - h5py==3.9.0
 
 prefix: /srv/conda/envs/notebook
