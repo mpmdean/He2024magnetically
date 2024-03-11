@@ -5,7 +5,8 @@ Source code and data files for the manuscript . Execute plot.ipynb to view the d
 
 How to cite
 -----------
-If this data is used, please cite 
+If this data is used, please cite W. He, Y. Shen, K. Wohlfeld, J. Sears, J. Li, J. Pelliciari, M. Walicki,
+S. Johnston, E. Baldini, V. Bisogni, M. Mitrano, and M. P. M. Dean, Nature Communications (2024)
 
 
 Run locally
@@ -24,4 +25,4 @@ Run remotely
 ------------
 
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/mpmdean/He2023Zhang/HEAD?filepath=plot.ipynb
+ :target: https://mybinder.org/v2/gh/mpmdean/He2024magnetically/HEAD?filepath=plot.ipynb
